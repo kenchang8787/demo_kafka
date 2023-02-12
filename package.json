@@ -1,0 +1,16 @@
+{
+  "name": "demo_kafka",
+  "version": "1.0.0",
+  "description": "This demo implement the characters of producer and consumer in Kafka by Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9",
+    "kafkajs": "^2.2.3"
+  }
+}
